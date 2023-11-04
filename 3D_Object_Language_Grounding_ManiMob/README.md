@@ -21,7 +21,7 @@ You can prepare the data as the instruction in the github link.
     
 3. Prepare the checkpoint and knowledge base
     
-    The checkpoint and knowledge base are save in [3D_grounding_manimop](https://hkustgz-my.sharepoint.com/:f:/g/personal/psun012_connect_hkust-gz_edu_cn/EgbEKRtI4g5GvLorbx9X4lsBRbkgacyfoKxAsl9-5EL8Yw?e=VyUosg) and you can download it.
+    The checkpoint and knowledge base are save in [3D_grounding_manimob](https://hkustgz-my.sharepoint.com/:f:/g/personal/psun012_connect_hkust-gz_edu_cn/EgbEKRtI4g5GvLorbx9X4lsBn5BAcvxQqUvf9gTmkSWcDQ?e=Zabtdd) and you can download it.
     
 4. Run the test scripts
     
