@@ -1,0 +1,24 @@
+SCENE: "KFC"
+PROFILE_NUM: 100 # the number of profile
+OUPUT_DIR: "output"
+PROBASE_PATH: "/mnt/sda/TKDE2024/schema_extraction/data-concept-instance-relations.txt" # the path of probase
+SENTENCE_TRANSFORMER_MODEL_PATH: "/mnt/sda/models/all-MiniLM-L6-v2/"
+
+MODEL_NAME: "vicuna-7b-v1.5"
+API_KEY: "EMPTY" # Not support yet
+AIP_BASE: "http://localhost:8000/v1" # Not support yet
+
+
+SCENE_PROFILE_PROMPTS:
+  - "Generate a very long and detailed description about a scene in {scene} and use a random and unique descriptive style"
+  - "I want to do a renovation for {scene}, please give a detailed and as long as possible decoration suggestion"
+  - "I need some descriptions of objects that may appear in {scene}, and the descriptions are required to be as long and detailed as possible"
+
+EXTRACT_PROMPTS:
+  - "Extract the visual and non-visual concepts from below sentence and list all of them: {desc}"
+
+NEO4J:
+  URL: "http://localhost:7474"
+  USER: "neo4j"
+  PASSWORD: "&^9XVj88"
+
