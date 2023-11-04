@@ -7,7 +7,7 @@ This is a repo for 'Scene-Driven Multimodal Knowledge Graph Construction for Emb
 
 ## Downstream Task
 
-### Visual Language Grounding
+### Visual Language Navigation
 
 ### 3D Object Language Grounding
 
