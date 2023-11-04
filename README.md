@@ -9,6 +9,6 @@ This is a repo for 'Scene-Driven Multimodal Knowledge Graph Construction for Emb
 
 ### Visual Language Navigation
 
-### 3D Object Language Grounding
+### [3D Object Language Grounding](https://github.com/nathaniel2020/ManipMob-MMKG/tree/main/3D_Object_Language_Grounding_ManiMob)
 
 
