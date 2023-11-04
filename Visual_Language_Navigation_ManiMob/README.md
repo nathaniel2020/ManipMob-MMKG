@@ -22,8 +22,8 @@ You can prepare the data as the instruction in the github link.
     unzip ResNet-152-imagenet.zip
     ```
     
-3. Prepare the knowledge base and data from [VLN_manimob](https://hkustgz-my.sharepoint.com/:f:/g/personal/psun012_connect_hkust-gz_edu_cn/EoXSVE2jcXdFoECV2lmiaDYBasaWVVjjnCgSaRRUt-Opww). Unzip them into your project.
-4. Download the chechpoint from [VLN_manimob](https://hkustgz-my.sharepoint.com/:f:/g/personal/psun012_connect_hkust-gz_edu_cn/EoXSVE2jcXdFoECV2lmiaDYBasaWVVjjnCgSaRRUt-Opww).
+3. Prepare the knowledge base and data from [VLN_manipmob](https://hkustgz-my.sharepoint.com/:f:/g/personal/psun012_connect_hkust-gz_edu_cn/EoXSVE2jcXdFoECV2lmiaDYBasaWVVjjnCgSaRRUt-Opww). Unzip them into your project.
+4. Download the chechpoint from [VLN_manipmob](https://hkustgz-my.sharepoint.com/:f:/g/personal/psun012_connect_hkust-gz_edu_cn/EoXSVE2jcXdFoECV2lmiaDYBasaWVVjjnCgSaRRUt-Opww).
 5. Run the test scripts
     
     ```jsx
