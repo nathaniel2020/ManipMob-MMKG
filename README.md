@@ -1,19 +1,24 @@
 # ManipMob-MMKG
 
-This is a repo for 'Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI', and our website is https://sites.google.com/view/manipmob-mmkg
+## About
 
-# UPDATE 2023-11-09
-## [Scene MMKG Construct](https://github.com/nathaniel2020/ManipMob-MMKG/tree/main/Scene_MMKG_Construct)
-### Schema Visualization
-### Subgraph Extraction
+Code for the paper ["Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI"](https://arxiv.org/abs/2311.03783)
+Our website is in [ManipMob-MMKG](https://sites.google.com/view/manipmob-mmkg)
 
-## Downstream Emoodied AI Task
+## Scene-MMKG Construction
 
-### [Visual Language Navigation](https://github.com/nathaniel2020/ManipMob-MMKG/tree/main/Visual_Language_Navigation_ManiMob)
-
-### [3D Object Language Grounding](https://github.com/nathaniel2020/ManipMob-MMKG/tree/main/3D_Object_Language_Grounding_ManiMob)
+## Scene-driven Knowledge Enhancement Model
 
 
+## Requirements
+
+## Data Download
+
+## Run
+
+## Acknowledgement
+
+## How to Cite
 ```
 @misc{yaoxian2023scenedriven,
       title={Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI}, 
@@ -23,4 +28,4 @@ This is a repo for 'Scene-Driven Multimodal Knowledge Graph Construction for Emb
       archivePrefix={arXiv},
       primaryClass={cs.AI}
 }
-```
+
