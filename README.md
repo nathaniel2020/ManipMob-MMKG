@@ -26,7 +26,7 @@ For three sub-works, please visit each subfolder for information such as environ
 
 ## Acknowledgement
 
-The code of two downstream tasks in this work is built upon [CKR](https://github.com/alloldman/CKR) and [sanre](https://github.com/mushorg/snare). And thanks them for their great works!
+The code of two downstream tasks in this work is built upon [CKR](https://github.com/alloldman/CKR) and [snare](https://github.com/mushorg/snare). And thanks them for their great works!
 
 ## How to Cite
 ```
